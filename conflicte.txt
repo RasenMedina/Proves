@@ -1,2 +1,3 @@
 Estic aprenent Git.
 Aquesta línia ha estat modificada des de main.
+Aquesta línia ha estat modificada des de provaRasenDesktop.
