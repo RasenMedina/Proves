@@ -1,0 +1,2 @@
+Estic aprenent Git.
+Aquesta és la versió original.
