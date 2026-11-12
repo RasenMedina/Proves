@@ -1,2 +1,2 @@
 Estic aprenent Git.
-Aquesta és la versió original.
+Aquesta línia ha estat modificada des de provaRasenDesktop.
